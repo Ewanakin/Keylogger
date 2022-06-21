@@ -1,0 +1,14 @@
+salut
+Key.space
+tout
+Key.space
+le
+Key.space
+monde
+Key.space
+pei
+Key.backspace
+tit
+Key.space
+test
+Key.enter
